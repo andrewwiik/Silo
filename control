@@ -1,0 +1,9 @@
+Package: com.ioscreatix.silo
+Name: Silo
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows Reordering of all the CC Modules and for Developers to add their own
+Maintainer: iOS Creatix
+Author: iOS Creatix
+Section: Tweaks
